@@ -1,7 +1,7 @@
 
 # Booking Cinema Ticket
 
-A C++/Qt-based graphical application designed to manage movie information. It allows users to reserved movies, search, and navigate through movies in a paginated view. It allows admins add new moviees, edit and delete them. Special functionalities include managing user profiles and access control for administrative tasks.
+A C++/Qt-based graphical application designed to manage movie information. It allows users to reserved movies, search, and navigate through movies in a paginated view. It allows admins add new moviees, edit and delete them.
 
 ## Images of Game
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following requirements installed:
 
 ## Getting Started
 
-To get started with the Sudoku Game, clone this repository to your local machine and open the project in Qt Creator or build it using `qmake` and `make`.
+To get started with the Cinema App, clone this repository to your local machine and open the project in Qt Creator or build it using `qmake` and `make`.
 
 ### Cloning the Repository
 
